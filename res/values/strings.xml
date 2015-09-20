@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">labbuggy2</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Counter App</string>
+    <string name="button">Count</string>
+    <string name="hint">Number Here</string>
+    <string name="resultMsg">Result Below:</string>
+        <string name="sum">Sum 5,10,15 and your number</string>
+        <string name="factorial">Factorial</string>
+        
+</resources>
